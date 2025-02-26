@@ -59,3 +59,6 @@ Enter temperature in Celsius: 25
 # Possible improvements
 
 Make a web version accessible in one link / add more complex measures 
+
+# Contributions allowed
+You want to add features or see a possible issue, you can open a issue or ask me about it.
