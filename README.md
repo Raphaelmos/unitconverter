@@ -56,3 +56,6 @@ Enter your choice (1-5): 1
 Enter temperature in Celsius: 25
 25.00°C is equal to 77.00°F
 ```
+# Possible improvements
+
+Make a web version accessible in one link / add more complex measures 
